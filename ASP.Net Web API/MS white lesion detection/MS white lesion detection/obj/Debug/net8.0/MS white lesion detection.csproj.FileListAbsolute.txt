@@ -1,0 +1,355 @@
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\appsettings.Development.json
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\appsettings.json
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.staticwebassets.runtime.json
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.exe
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.deps.json
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.runtimeconfig.json
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.pdb
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\AutoMapper.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Azure.Core.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Azure.Identity.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Humanizer.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.ClientModel.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.CodeDom.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Memory.Data.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Text.Json.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\projects\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.csproj.AssemblyReference.cache
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.AssemblyInfoInputs.cache
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.AssemblyInfo.cs
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.csproj.CoreCompileInputs.cache
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets.build.json
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets.development.json
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets\msbuild.MS white lesion detection.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets\msbuild.build.MS white lesion detection.props
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MS white lesion detection.props
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MS white lesion detection.props
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets.pack.json
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\scopedcss\bundle\MS white lesion detection.styles.css
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white.A03F6694.Up2Date
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.dll
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\refint\MS white lesion detection.dll
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.pdb
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.genruntimeconfig.cache
+E:\projects\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\ref\MS white lesion detection.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\appsettings.Development.json
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\appsettings.json
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.staticwebassets.runtime.json
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.exe
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.deps.json
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.runtimeconfig.json
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\MS white lesion detection.pdb
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\AutoMapper.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Azure.Core.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Azure.Identity.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Humanizer.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.ClientModel.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.CodeDom.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Memory.Data.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Text.Json.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.csproj.AssemblyReference.cache
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.AssemblyInfoInputs.cache
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.AssemblyInfo.cs
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.csproj.CoreCompileInputs.cache
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.sourcelink.json
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets.build.json
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets.development.json
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets\msbuild.MS white lesion detection.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets\msbuild.build.MS white lesion detection.props
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MS white lesion detection.props
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MS white lesion detection.props
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\staticwebassets.pack.json
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\scopedcss\bundle\MS white lesion detection.styles.css
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white.A03F6694.Up2Date
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\refint\MS white lesion detection.dll
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.pdb
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\MS white lesion detection.genruntimeconfig.cache
+E:\projects\MS-White-Lesion-Detection\ASP.Net Web API\MS white lesion detection\MS white lesion detection\obj\Debug\net8.0\ref\MS white lesion detection.dll

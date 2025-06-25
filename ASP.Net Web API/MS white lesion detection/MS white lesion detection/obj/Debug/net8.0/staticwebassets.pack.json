@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\1800301c-eae7-4a8e-892a-f4944e33975f_FCAI-logo.png",
+      "PackagePath": "staticwebassets\\uploads\\1800301c-eae7-4a8e-892a-f4944e33975f_FCAI-logo.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\2cd9a6b6-d0b0-4b39-9502-1a92be9be78e_pngegg.png",
+      "PackagePath": "staticwebassets\\uploads\\2cd9a6b6-d0b0-4b39-9502-1a92be9be78e_pngegg.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\3a52c56a-4485-4545-97f2-d6ac209b0397_pngegg.png",
+      "PackagePath": "staticwebassets\\uploads\\3a52c56a-4485-4545-97f2-d6ac209b0397_pngegg.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\6a911706-d65b-4c85-bcd0-58084ce09bb6_FCAI-logo.png",
+      "PackagePath": "staticwebassets\\uploads\\6a911706-d65b-4c85-bcd0-58084ce09bb6_FCAI-logo.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\f750cb8d-92ad-4ec6-a8ec-1b620c505180_pngegg.png",
+      "PackagePath": "staticwebassets\\uploads\\f750cb8d-92ad-4ec6-a8ec-1b620c505180_pngegg.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MS white lesion detection.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MS white lesion detection.props",
+      "PackagePath": "build\\MS white lesion detection.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MS white lesion detection.props",
+      "PackagePath": "buildMultiTargeting\\MS white lesion detection.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MS white lesion detection.props",
+      "PackagePath": "buildTransitive\\MS white lesion detection.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

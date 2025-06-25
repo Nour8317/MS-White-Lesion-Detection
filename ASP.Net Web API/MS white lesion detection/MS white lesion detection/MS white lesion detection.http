@@ -1,0 +1,6 @@
+@MS_white_lesion_detection_HostAddress = http://localhost:5250
+
+GET {{MS_white_lesion_detection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
