@@ -1,0 +1,69 @@
+## Build output
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## ASP.NET secrets (local dev)
+secrets.json
+
+## Log files
+*.log
+
+## Temporary files
+*.tmp
+*.temp
+~$*
+
+## IIS Express
+.vs/
+*.vspscc
+*.vssscc
+
+## Package files
+packages/
+*.nupkg
+*.snupkg
+
+## Test results
+TestResults/
+
+## Publish output
+publish/
+out/
+
+## Environment files
+.env
+*.env.*
+
+## SQLite or other local DBs (if used)
+*.db
+*.sqlite
+
+## Auto-generated Swagger/OpenAPI files (if applicable)
+swagger.json
+swagger/
+
+## User uploaded files (if stored locally)
+wwwroot/uploads/
+uploads/
+
+## JetBrains Rider
+*.DotSettings.user
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Coverage reports (e.g. coverlet)
+coverage.*
