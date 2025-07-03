@@ -1,0 +1,291 @@
+{
+  "website": {
+    "name": "You Have MS",
+    "theme": {
+      "primaryColor": "#F28C38",
+      "secondaryColor": "#1E3A8A",
+      "backgroundColor": "#FFFFFF",
+      "inputBackground": "#E6F0FA",
+      "fontFamily": "Roboto, Open Sans, sans-serif"
+    },
+    "pages": [
+      {
+        "name": "Sign Up",
+        "layout": {
+          "logo": {
+            "position": "left",
+            "image": "logo.png",
+            "width": "150px"
+          },
+          "content": {
+            "title": "Welcome to YOU HAVE MS",
+            "subtitle": "Sign Up",
+            "form": {
+              "fields": [
+                {
+                  "type": "text",
+                  "label": "Enter Email",
+                  "placeholder": "Enter your email"
+                },
+                {
+                  "type": "text",
+                  "label": "Create Username",
+                  "placeholder": "Create your username"
+                },
+                {
+                  "type": "text",
+                  "label": "Contact number",
+                  "placeholder": "Enter your contact number"
+                },
+                {
+                  "type": "password",
+                  "label": "Password",
+                  "placeholder": "Enter password"
+                },
+                {
+                  "type": "password",
+                  "label": "Confirm Password",
+                  "placeholder": "Confirm password"
+                }
+              ],
+              "button": {
+                "text": "Register",
+                "color": "#1E3A8A",
+                "hoverColor": "#153e7e"
+              },
+              "link": {
+                "text": "You can Login here!",
+                "color": "#F28C38",
+                "url": "login"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Sign In",
+        "layout": {
+          "logo": {
+            "position": "left",
+            "image": "logo.png",
+            "width": "150px"
+          },
+          "content": {
+            "title": "Welcome Back to YOU HAVE MS",
+            "subtitle": "Sign in",
+            "form": {
+              "fields": [
+                {
+                  "type": "text",
+                  "label": "Enter email or username",
+                  "placeholder": "Enter your email or username"
+                },
+                {
+                  "type": "password",
+                  "label": "Password",
+                  "placeholder": "Enter password",
+                  "forgotLink": "Forgot password ?"
+                }
+              ],
+              "button": {
+                "text": "Login",
+                "color": "#1E3A8A",
+                "hoverColor": "#153e7e"
+              },
+              "link": {
+                "text": "You can Register here!",
+                "color": "#F28C38",
+                "url": "signup"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Upload Scans",
+        "layout": {
+          "logo": {
+            "position": "left",
+            "image": "logo.png",
+            "width": "150px"
+          },
+          "content": {
+            "title": "Upload Scans",
+            "uploadArea": {
+              "description": "Drag your file(s) to start uploading OR",
+              "button": "Browse files",
+              "supportedFormats": [
+                "jpg",
+                "png",
+                "svg",
+                "zip"
+              ]
+            },
+            "buttons": [
+              {
+                "text": "Cancel",
+                "color": "#D1D5DB"
+              },
+              {
+                "text": "Next",
+                "color": "#F28C38"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Results",
+        "layout": {
+          "logo": {
+            "position": "left",
+            "image": "logo.png",
+            "width": "150px"
+          },
+          "content": {
+            "title": "Results",
+            "chart": {
+              "type": "line",
+              "data": [
+                {
+                  "label": "Lorem",
+                  "color": "#1E3A8A"
+                },
+                {
+                  "label": "Ipsum",
+                  "color": "#9333EA"
+                }
+              ],
+              "xAxis": [
+                "JAN",
+                "FEB",
+                "MAR",
+                "APR",
+                "MAY",
+                "JUN",
+                "JUL",
+                "AUG",
+                "SEP",
+                "OCT",
+                "NOV",
+                "DEC"
+              ],
+              "yAxis": {
+                "min": 0,
+                "max": 100
+              }
+            },
+            "report": {
+              "file": "report.pdf",
+              "size": "313 KB",
+              "date": "31 Aug 2022"
+            },
+            "patient": {
+              "name": "Tarek Mahdy"
+            },
+            "buttons": [
+              {
+                "text": "Cancel",
+                "color": "#D1D5DB"
+              },
+              {
+                "text": "Save",
+                "color": "#F28C38"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Profile",
+        "layout": {
+          "logo": {
+            "position": "left",
+            "image": "logo.png",
+            "width": "150px"
+          },
+          "content": {
+            "title": "My Profile",
+            "tabs": [
+              {
+                "text": "My Profile",
+                "active": true
+              },
+              {
+                "text": "History",
+                "active": false
+              }
+            ],
+            "form": {
+              "fields": [
+                {
+                  "type": "image",
+                  "label": "Your Profile Picture",
+                  "placeholder": "Upload your photo"
+                },
+                {
+                  "type": "text",
+                  "label": "Full name",
+                  "placeholder": "Please enter your full name"
+                },
+                {
+                  "type": "text",
+                  "label": "Email",
+                  "placeholder": "Please enter your email"
+                },
+                {
+                  "type": "text",
+                  "label": "Username",
+                  "placeholder": "Please enter your username"
+                },
+                {
+                  "type": "text",
+                  "label": "Phone number",
+                  "placeholder": "+20 Please enter your phone number"
+                },
+                {
+                  "type": "textarea",
+                  "label": "Bio",
+                  "placeholder": "Write your Bio here e.g your hobbies, interests ETC"
+                }
+              ],
+              "buttons": [
+                {
+                  "text": "Update Profile",
+                  "color": "#F28C38"
+                },
+                {
+                  "text": "Reset",
+                  "color": "#D1D5DB"
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "name": "History",
+        "layout": {
+          "logo": {
+            "position": "left",
+            "image": "logo.png",
+            "width": "150px"
+          },
+          "content": {
+            "title": "History",
+            "tabs": [
+              {
+                "text": "My Profile",
+                "active": false
+              },
+              {
+                "text": "History",
+                "active": true
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

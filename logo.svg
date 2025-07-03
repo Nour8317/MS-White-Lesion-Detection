@@ -1,0 +1,11 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Orange Ribbon -->
+    <path d="M60 180 Q110 60 60 40 Q10 60 60 180" stroke="#F28C38" stroke-width="18" fill="none"/>
+    <path d="M60 110 Q90 140 120 40" stroke="#F28C38" stroke-width="18" fill="none"/>
+    <!-- Blue Brain (simplified) -->
+    <ellipse cx="160" cy="110" rx="40" ry="60" stroke="#1E3A8A" stroke-width="8" fill="none"/>
+    <path d="M160 50 Q170 70 160 90 Q150 110 170 130 Q190 150 160 170 Q130 190 160 210" stroke="#1E3A8A" stroke-width="6" fill="none"/>
+    <path d="M160 90 Q140 110 160 130 Q180 150 160 170" stroke="#1E3A8A" stroke-width="4" fill="none"/>
+  </g>
+</svg> 

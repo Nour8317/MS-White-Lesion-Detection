@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MS Early Detection</title>
+    <link rel="stylesheet" href="styles.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Open+Sans:wght@300;400;600;700&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar home-navbar" id="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <img src="logo.png" alt="MS Early Detection Logo" class="navbar-logo">
+                <span class="app-title">MS Early Detection</span>
+            </div>
+            <div class="nav-links" id="navbar-links">
+                <a href="#" class="nav-link" data-page="home">Home</a>
+                <a href="#" class="nav-link" data-page="upload">Upload Scans</a>
+                <a href="#" class="nav-link" data-page="results">Results</a>
+                <a href="#" class="nav-link" data-page="profile">Profile</a>
+                <a href="#" class="nav-link" data-page="history">History</a>
+            </div>
+            <div class="navbar-actions" id="navbar-actions">
+                <a href="#" class="nav-link nav-login" data-page="signin">Login</a>
+                <a href="#" class="btn btn-secondary nav-join" data-page="signup">JOIN US</a>
+            </div>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Home Page -->
+    <div class="page" id="home-page">
+        <!-- Hero Section -->
+        <section class="home-hero-bg">
+            <div class="home-hero-content">
+                <div class="home-hero-label">For Better Future</div>
+                <h1 class="home-hero-title">A Great Place to<br>Receive Care</h1>
+                <p class="home-hero-desc">Early detection of Multiple Sclerosis can make a significant difference.<br>Our
+                    platform helps you take the first step towards better neurological health.</p>
+                <div class="home-hero-actions">
+                    <a href="#" class="btn btn-primary">Get Quote Now</a>
+                    <a href="#" class="btn btn-outline">Learn More</a>
+                </div>
+            </div>
+        </section>
+        <!-- Quick Examination / Services Section (Leading Medicine) -->
+        <section class="services-section">
+            <div class="services-header">
+                <span class="services-label">Quick examination</span>
+                <h2 class="services-title">Leading Medicine</h2>
+                <p class="services-desc">Problems trying to resolve the conflict between<br>the two major realms of
+                    Classical physics: Newtonian mechanics</p>
+            </div>
+            <div class="services-cards">
+                <div class="service-card">
+                    <div class="service-icon"><!-- icon --></div>
+                    <h3>Health Queries</h3>
+                    <div class="service-divider"></div>
+                    <p>The gradual accumulation of information about</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon"><!-- icon --></div>
+                    <h3>Painless procedures</h3>
+                    <div class="service-divider"></div>
+                    <p>The gradual accumulation of information about</p>
+                </div>
+                <div class="service-card active">
+                    <div class="service-icon"><!-- icon --></div>
+                    <h3>Emergency Case</h3>
+                    <div class="service-divider"></div>
+                    <p>The gradual information about atomic behaviour...</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon"><!-- icon --></div>
+                    <h3>Book now</h3>
+                    <div class="service-divider"></div>
+                    <p>The gradual accumulation of information about</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Our Department Section as independent section after Leading Medicine -->
+        <section class="department-section">
+            <div class="department-shape">
+                <img src="thumb-concept-6.png" alt="Department Logo"
+                    style="max-width: 260px; width: 100%; height: auto; display: block;" />
+            </div>
+            <div class="department-content">
+                <span class="department-label"></span>
+                <h2 class="department-title">Our Department</h2>
+                <div class="department-divider"></div>
+                <p class="department-desc">Problems trying to resolve the conflict between<br>the two major realms of
+                    Classical physics: Newtonian mechanics</p>
+                <a href="#" class="department-link">Learn More &rarr;</a>
+            </div>
+        </section>
+
+        <!-- Newsletter Section -->
+        <section class="newsletter-section">
+            <span class="newsletter-label">Newsletter</span>
+            <h2 class="newsletter-title">JOIN US</h2>
+            <p class="newsletter-desc">Problems trying to resolve the conflict between<br>the two major realms of
+                classical physics: Newtonian mechanics</p>
+            <form class="newsletter-form">
+                <input type="email" placeholder="Your Email" required>
+                <button type="submit" class="btn btn-primary">Subscribe</button>
+            </form>
+        </section>
+        <!-- Footer Section -->
+        <footer class="footer-section">
+            <div class="footer-columns">
+                <div class="footer-col">
+                    <h4>Company Info</h4>
+                    <ul>
+                        <li>About Us</li>
+                        <li>Carrier</li>
+                        <li>We are hiring</li>
+                        <li>Blog</li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li>About Us</li>
+                        <li>Carrier</li>
+                        <li>We are hiring</li>
+                        <li>Blog</li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Features</h4>
+                    <ul>
+                        <li>Business Marketing</li>
+                        <li>User Analytic</li>
+                        <li>Live Chat</li>
+                        <li>Unlimited Support</li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li>IOS & Android</li>
+                        <li>Watch a Demo</li>
+                        <li>Customers</li>
+                        <li>API</li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Get In Touch</h4>
+                    <ul>
+                        <li><span class="footer-icon">&#128222;</span> (480) 555-0103</li>
+                        <li><span class="footer-icon">&#128205;</span> 4517 Washington Ave. Manchester, Kentucky 39495
+                        </li>
+                        <li><span class="footer-icon">&#9993;</span> debra.holt@example.com</li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- Our Department Section as independent section after Leading Medicine -->
+
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Sign Up Page -->
+        <div class="page" id="signup-page">
+            <div class="split-layout">
+                <div class="split-logo">
+                    <img src="logo.png" alt="MS Early Detection Logo" class="main-logo">
+                </div>
+                <div class="split-card">
+                    <div class="card">
+                        <h1 class="page-title">Welcome to</h1>
+                        <h2 class="brand-title">MS EARLY DETECTION</h2>
+                        <h3 class="page-subtitle">Sign Up</h3>
+                        <form class="auth-form" id="signup-form">
+                            <div class="form-group icon-input">
+                                <input type="email" id="signup-email" placeholder="Enter Email" required>
+                                <span class="input-icon"><!-- email icon --></span>
+                            </div>
+                            <div class="form-group icon-input">
+                                <input type="text" id="signup-username" placeholder="Create User name" required>
+                                <span class="input-icon"><!-- user icon --></span>
+                            </div>
+                            <div class="form-group icon-input">
+                                <input type="tel" id="signup-phone" placeholder="Contact number" required>
+                                <span class="input-icon"><!-- phone icon --></span>
+                            </div>
+                            <div class="form-group icon-input">
+                                <input type="password" id="signup-password" placeholder="Password" required>
+                                <span class="input-icon password-toggle"
+                                    data-target="signup-password"><!-- eye icon --></span>
+                            </div>
+                            <div class="form-group icon-input">
+                                <input type="password" id="signup-confirm-password" placeholder="Confirm Password"
+                                    required>
+                                <span class="input-icon password-toggle"
+                                    data-target="signup-confirm-password"><!-- eye icon --></span>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Register</button>
+                            <div class="form-footer">
+                                <p>If you already have an account</p>
+                                <p>You can <a href="#" data-page="signin" class="link-primary">Login here !</a></p>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sign In Page -->
+        <div class="page" id="signin-page">
+            <div class="split-layout">
+                <div class="split-logo">
+                    <img src="logo.png" alt="MS Early Detection Logo" class="main-logo">
+                </div>
+                <div class="split-card">
+                    <div class="card">
+                        <h1 class="page-title">Welcome Back to</h1>
+                        <h2 class="brand-title">MS EARLY DETECTION</h2>
+                        <h3 class="page-subtitle">Sign in</h3>
+                        <form class="auth-form" id="signin-form">
+                            <div class="form-group icon-input">
+                                <input type="text" id="signin-email" placeholder="Enter email or user name" required>
+                                <span class="input-icon"><!-- user/email icon --></span>
+                            </div>
+                            <div class="form-group icon-input">
+                                <input type="password" id="signin-password" placeholder="Password" required>
+                                <span class="input-icon password-toggle"
+                                    data-target="signin-password"><!-- eye icon --></span>
+                            </div>
+                            <div class="form-links-row">
+                                <a href="#" class="forgot-link">Forgot password ?</a>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Login</button>
+                            <div class="form-footer">
+                                <p>If you don't have an account</p>
+                                <p>You can <a href="#" data-page="signup" class="link-primary">Register here !</a></p>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Upload Scans Page -->
+        <div class="page" id="upload-page">
+            <div class="page-container">
+                <div class="content-section">
+                    <h1 class="page-title">Upload Scans</h1>
+                    <div class="upload-area" id="upload-area">
+                        <div class="upload-content">
+                            <p class="upload-description">Drag your file(s) to start uploading OR</p>
+                            <button type="button" class="btn btn-secondary" id="browse-btn">Browse files</button>
+                            <input type="file" id="file-input" multiple accept=".jpg,.jpeg,.png,.svg,.zip"
+                                style="display: none;">
+                            <p class="supported-formats">Supported formats: jpg, png, svg, zip</p>
+                        </div>
+                    </div>
+                    <div class="upload-buttons">
+                        <button type="button" class="btn btn-cancel">Cancel</button>
+                        <button type="button" class="btn btn-primary">Next</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Page -->
+        <div class="page" id="results-page">
+            <div class="page-container">
+                <div class="content-section results-flex">
+                    <h1 class="page-title">Results</h1>
+                    <div class="results-main">
+                        <div class="mri-grid-section">
+                            <h3>Cross-sectional Images</h3>
+                            <div class="mri-grid" id="mri-grid"></div>
+                            <div id="mri-loading" style="text-align:center; color:#888; margin-top:12px; display:none;">
+                                Loading images...</div>
+                            <div id="mri-error" style="text-align:center; color:#c00; margin-top:12px; display:none;">
+                                Failed to Fetch Images</div>
+                        </div>
+                        <div class="report-box">
+                            <div class="report-icon">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"
+                                    alt="PDF" style="width:32px;height:32px;">
+                            </div>
+                            <div class="report-info">
+                                <div class="report-filename">report.pdf</div>
+                                <div class="report-meta">313 KB &middot; 31 Aug, 2022</div>
+                            </div>
+                            <a href="report.pdf" download class="report-download" title="Download PDF">
+                                <svg width="24" height="24" fill="none" stroke="#1E3A8A" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                                    <polyline points="7 10 12 15 17 10" />
+                                    <line x1="12" y1="15" x2="12" y2="3" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="patient-info">
+                        <h3>Patient</h3>
+                        <p class="patient-name">Tarek Mahdy</p>
+                    </div>
+                    <div class="results-buttons">
+                        <button type="button" class="btn btn-cancel">Cancel</button>
+                        <button type="button" class="btn btn-primary">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Profile Page -->
+        <div class="page" id="profile-page">
+            <div class="page-container">
+                <div class="content-section">
+                    <h1 class="page-title">My Profile</h1>
+                    <div class="tabs">
+                        <button class="tab-btn active" data-tab="profile">My Profile</button>
+                    </div>
+                    <div class="tab-content" id="profile-tab">
+                        <form class="profile-form" id="profile-form">
+                            <div class="form-group">
+                                <label for="profile-picture">Your Profile Picture</label>
+                                <div class="file-upload">
+                                    <input type="file" id="profile-picture" accept="image/*" style="display: none;">
+                                    <button type="button" class="btn btn-secondary" id="upload-photo-btn">Upload your
+                                        photo</button>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="profile-name">Full name</label>
+                                <input type="text" id="profile-name" placeholder="Please enter your full name">
+                            </div>
+                            <div class="form-group">
+                                <label for="profile-email">Email</label>
+                                <input type="email" id="profile-email" placeholder="Please enter your email">
+                            </div>
+                            <div class="form-group">
+                                <label for="profile-username">Username</label>
+                                <input type="text" id="profile-username" placeholder="Please enter your username">
+                            </div>
+                            <div class="form-group">
+                                <label for="profile-phone">Phone number</label>
+                                <input type="tel" id="profile-phone" placeholder="+20 Please enter your phone number">
+                            </div>
+                            <div class="form-group">
+                                <label for="profile-bio">Bio</label>
+                                <textarea id="profile-bio"
+                                    placeholder="Write your Bio here e.g your hobbies, interests ETC"></textarea>
+                            </div>
+                            <div class="profile-buttons">
+                                <button type="submit" class="btn btn-primary">Update Profile</button>
+                                <button type="button" class="btn btn-cancel">Reset</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- History Page -->
+        <div class="page" id="history-page">
+            <div class="page-container">
+                <div class="content-section">
+                    <h1 class="page-title">History</h1>
+                    <div class="tabs">
+                        <button class="tab-btn active" data-tab="history">History</button>
+                    </div>
+                    <div class="tab-content" id="history-tab">
+                        <div class="history-content">
+                            <p>History content will be displayed here.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+    <script>
+        // Fetch image URLs from RESTful API and render grid
+        const mriGrid = document.getElementById('mri-grid');
+        const mriLoading = document.getElementById('mri-loading');
+        const mriError = document.getElementById('mri-error');
+        const reportBox = document.querySelector('.report-box');
+        const reportFilename = reportBox.querySelector('.report-filename');
+        const reportMeta = reportBox.querySelector('.report-meta');
+        const reportDownload = reportBox.querySelector('.report-download');
+
+        async function fetchAndRenderImages() {
+            mriLoading.style.display = 'block';
+            mriError.style.display = 'none';
+            try {
+                // Replace this URL with your actual REST endpoint
+                const response = await fetch('/api/results/images');
+                if (!response.ok) throw new Error('Network response was not ok');
+                const imageFiles = await response.json(); // Should be an array of image URLs
+                renderGrid(imageFiles);
+                mriLoading.style.display = 'none';
+            } catch (err) {
+                mriLoading.style.display = 'none';
+                const fallbackImages = Array(9).fill('download.webp');
+                renderGrid(fallbackImages);
+                mriError.textContent = 'Failed to Fetch Images';
+                mriError.style.display = 'block';
+            }
+        }
+
+        function renderGrid(images) {
+            mriGrid.innerHTML = '';
+            const n = images.length;
+            const cols = Math.ceil(Math.sqrt(n));
+            mriGrid.style.gridTemplateColumns = `repeat(${cols}, 200px)`;
+            mriGrid.style.gridTemplateRows = `repeat(${Math.ceil(n / cols)}, 200px)`;
+            images.forEach(src => {
+                const img = document.createElement('img');
+                img.src = src;
+                img.alt = 'MRI Slice';
+                img.className = 'mri-slice';
+                mriGrid.appendChild(img);
+            });
+        }
+
+        // Fetch PDF report info from RESTful API and update the report box
+        async function fetchAndRenderReport() {
+            try {
+                // Replace this URL with your actual REST endpoint
+                const response = await fetch('/api/results/report');
+                if (!response.ok) throw new Error('Network response was not ok');
+                // Example expected response: { "filename": "report.pdf", "url": "/files/report.pdf", "size": "313 KB", "date": "31 Aug, 2022" }
+                const report = await response.json();
+                reportFilename.textContent = report.filename || 'report.pdf';
+                reportMeta.textContent = `${report.size || ''}${report.size && report.date ? ' · ' : ''}${report.date || ''}`;
+                reportDownload.href = report.url || '#';
+            } catch (err) {
+                reportFilename.textContent = 'No report available';
+                reportMeta.textContent = '';
+                reportDownload.href = '#';
+            }
+        }
+
+        fetchAndRenderImages();
+        fetchAndRenderReport();
+    </script>
+</body>
+
+</html>
