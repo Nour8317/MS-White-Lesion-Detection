@@ -10,6 +10,7 @@ using MS_white_lesion_detection.Models;
 using MS_white_lesion_detection.Repositories;
 using MS_white_lesion_detection.Services;
 using AutoMapper;
+using Microsoft.AspNetCore.Server.Kestrel.Core;
 
 namespace MS_white_lesion_detection
 {
@@ -18,6 +19,16 @@ namespace MS_white_lesion_detection
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.Configure<IISServerOptions>(options =>
+            {
+                options.MaxRequestBodySize = 157286400; 
+            });
+
+            builder.Services.Configure<KestrelServerOptions>(options =>
+            {
+                options.Limits.MaxRequestBodySize = 157286400; 
+            });
 
 
             builder.Services.AddDbContext<AppDbContext>(options =>
@@ -94,6 +105,12 @@ namespace MS_white_lesion_detection
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            app.UseCors(builder =>
+                    builder
+                    .WithOrigins("https://localhost:7111")
+                    .AllowAnyMethod()
+                    .AllowAnyHeader());
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();

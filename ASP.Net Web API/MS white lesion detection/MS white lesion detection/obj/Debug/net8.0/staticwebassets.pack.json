@@ -1,24 +1,104 @@
 {
   "Files": [
     {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\axial_modality0_cd019d0d-7f58-4f49-8520-6980dfa31248.png",
+      "PackagePath": "staticwebassets\\predictions\\axial_modality0_cd019d0d-7f58-4f49-8520-6980dfa31248.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\axial_modality1_03682fbb-7b1f-4781-837d-b03e2af98d18.png",
+      "PackagePath": "staticwebassets\\predictions\\axial_modality1_03682fbb-7b1f-4781-837d-b03e2af98d18.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\axial_modality2_b015dcb6-a9da-4160-a7a9-fba7166b8cba.png",
+      "PackagePath": "staticwebassets\\predictions\\axial_modality2_b015dcb6-a9da-4160-a7a9-fba7166b8cba.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\axial_modality3_a6b2906f-c370-4af2-ab49-149cdb0b7ae0.png",
+      "PackagePath": "staticwebassets\\predictions\\axial_modality3_a6b2906f-c370-4af2-ab49-149cdb0b7ae0.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\coronal_modality0_ca31bd79-f6c9-440c-a0bf-6aad0c690408.png",
+      "PackagePath": "staticwebassets\\predictions\\coronal_modality0_ca31bd79-f6c9-440c-a0bf-6aad0c690408.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\coronal_modality1_4cdf5d58-b6e3-4656-a401-e937f2ea610d.png",
+      "PackagePath": "staticwebassets\\predictions\\coronal_modality1_4cdf5d58-b6e3-4656-a401-e937f2ea610d.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\coronal_modality2_b9a5ac5c-4a61-433a-a329-14bc5fa66514.png",
+      "PackagePath": "staticwebassets\\predictions\\coronal_modality2_b9a5ac5c-4a61-433a-a329-14bc5fa66514.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\coronal_modality3_2a6b99be-6dc6-4be9-9581-11082a649c1a.png",
+      "PackagePath": "staticwebassets\\predictions\\coronal_modality3_2a6b99be-6dc6-4be9-9581-11082a649c1a.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\sagittal_modality0_dcc73fbe-d717-4e01-91fe-23540875b8a2.png",
+      "PackagePath": "staticwebassets\\predictions\\sagittal_modality0_dcc73fbe-d717-4e01-91fe-23540875b8a2.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\sagittal_modality1_c2cc5575-fb12-4efe-8a9c-d41cc1728c0f.png",
+      "PackagePath": "staticwebassets\\predictions\\sagittal_modality1_c2cc5575-fb12-4efe-8a9c-d41cc1728c0f.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\sagittal_modality2_ce122f4d-b369-46ad-ac32-5583ddb4fa37.png",
+      "PackagePath": "staticwebassets\\predictions\\sagittal_modality2_ce122f4d-b369-46ad-ac32-5583ddb4fa37.png"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\predictions\\sagittal_modality3_4701b32c-4896-4fb8-9f9c-372be02cfed1.png",
+      "PackagePath": "staticwebassets\\predictions\\sagittal_modality3_4701b32c-4896-4fb8-9f9c-372be02cfed1.png"
+    },
+    {
       "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\1800301c-eae7-4a8e-892a-f4944e33975f_FCAI-logo.png",
       "PackagePath": "staticwebassets\\uploads\\1800301c-eae7-4a8e-892a-f4944e33975f_FCAI-logo.png"
     },
     {
-      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\2cd9a6b6-d0b0-4b39-9502-1a92be9be78e_pngegg.png",
-      "PackagePath": "staticwebassets\\uploads\\2cd9a6b6-d0b0-4b39-9502-1a92be9be78e_pngegg.png"
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\23d8a015-b03d-4123-95b3-ae43fcd0a1f8_modality3_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\23d8a015-b03d-4123-95b3-ae43fcd0a1f8_modality3_patient1.nii"
     },
     {
-      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\3a52c56a-4485-4545-97f2-d6ac209b0397_pngegg.png",
-      "PackagePath": "staticwebassets\\uploads\\3a52c56a-4485-4545-97f2-d6ac209b0397_pngegg.png"
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\5508b738-18b8-4706-85e9-7a1d3df6ca2a_modality3_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\5508b738-18b8-4706-85e9-7a1d3df6ca2a_modality3_patient1.nii"
     },
     {
-      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\6a911706-d65b-4c85-bcd0-58084ce09bb6_FCAI-logo.png",
-      "PackagePath": "staticwebassets\\uploads\\6a911706-d65b-4c85-bcd0-58084ce09bb6_FCAI-logo.png"
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\6d621a5f-1625-477c-9735-123894f27636_modality0_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\6d621a5f-1625-477c-9735-123894f27636_modality0_patient1.nii"
     },
     {
-      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\f750cb8d-92ad-4ec6-a8ec-1b620c505180_pngegg.png",
-      "PackagePath": "staticwebassets\\uploads\\f750cb8d-92ad-4ec6-a8ec-1b620c505180_pngegg.png"
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\7b0fb3a5-6d68-4776-96ad-427aabeb4913_modality0_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\7b0fb3a5-6d68-4776-96ad-427aabeb4913_modality0_patient1.nii"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\9a73acb2-20b0-409c-b675-a2d688705496_modality1_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\9a73acb2-20b0-409c-b675-a2d688705496_modality1_patient1.nii"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\9d23e1d5-fd93-4bd5-be75-d2ef840fb6b3_modality3_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\9d23e1d5-fd93-4bd5-be75-d2ef840fb6b3_modality3_patient1.nii"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\9ff5d0b6-dbc2-448b-ae9b-1a75196ce473_modality1_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\9ff5d0b6-dbc2-448b-ae9b-1a75196ce473_modality1_patient1.nii"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\dba3006c-37f3-449c-8783-e9e982de492f_modality2_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\dba3006c-37f3-449c-8783-e9e982de492f_modality2_patient1.nii"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\e5bc86f9-ef9b-4d34-ad51-3c3750aca15f_modality1_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\e5bc86f9-ef9b-4d34-ad51-3c3750aca15f_modality1_patient1.nii"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\e8b58ded-4b8b-4628-aab6-98af1f9c8ddd_modality0_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\e8b58ded-4b8b-4628-aab6-98af1f9c8ddd_modality0_patient1.nii"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\ed0a1cc4-da4f-40b0-8590-6c9f3eecdd85_modality2_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\ed0a1cc4-da4f-40b0-8590-6c9f3eecdd85_modality2_patient1.nii"
+    },
+    {
+      "Id": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\wwwroot\\uploads\\fcd17e3f-7b72-480a-baee-6f795f784e5d_modality2_patient1.nii",
+      "PackagePath": "staticwebassets\\uploads\\fcd17e3f-7b72-480a-baee-6f795f784e5d_modality2_patient1.nii"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MS white lesion detection.Microsoft.AspNetCore.StaticWebAssets.props",

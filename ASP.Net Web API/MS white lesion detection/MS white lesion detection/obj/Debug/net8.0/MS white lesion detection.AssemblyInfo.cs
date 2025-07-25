@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MS white lesion detection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c895b57eea08dc437ce94242f5e33e65fa5c465")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a6e25d15ee58886cd2135a88e1a9cfce2c4e7d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MS white lesion detection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MS white lesion detection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

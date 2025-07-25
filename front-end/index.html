@@ -243,7 +243,7 @@
                             <div class="form-links-row">
                                 <a href="#" class="forgot-link">Forgot password ?</a>
                             </div>
-                            <button type="submit" class="btn btn-primary btn-block">Login</button>
+                            <button type="submit" id="login-btn" class="btn btn-primary btn-block">Login</button>
                             <div class="form-footer">
                                 <p>If you don't have an account</p>
                                 <p>You can <a href="#" data-page="signup" class="link-primary">Register here !</a></p>
@@ -263,7 +263,7 @@
                         <div class="upload-content">
                             <p class="upload-description">Drag your file(s) to start uploading OR</p>
                             <button type="button" class="btn btn-secondary" id="browse-btn">Browse files</button>
-                            <input type="file" id="file-input" multiple accept=".jpg,.jpeg,.png,.svg,.zip"
+                            <input type="file" id="file-input" multiple accept=".jpg,.jpeg,.png,.svg,.zip,.nii"
                                 style="display: none;">
                             <p class="supported-formats">Supported formats: jpg, png, svg, zip</p>
                         </div>
@@ -390,6 +390,7 @@
 
     <script src="script.js"></script>
     <script>
+        let token;
         // Fetch image URLs from RESTful API and render grid
         const mriGrid = document.getElementById('mri-grid');
         const mriLoading = document.getElementById('mri-loading');
@@ -450,6 +451,87 @@
                 reportDownload.href = '#';
             }
         }
+
+        //Login
+        document.getElementById('login-btn').addEventListener('click', async function (e) {
+    e.preventDefault();
+
+    const email = document.getElementById('signin-email').value;
+    const password = document.getElementById('signin-password').value;
+
+    try {
+        const response = await fetch('https://localhost:7111/api/User/login', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                email: email,
+                password: password
+            })
+        });
+
+        if (!response.ok) {
+            const errorData = await response.json();
+            alert('Login failed: ' + (errorData.message || 'Unknown error'));
+            return;
+        }
+
+        const data = await response.json();
+        console.log('Login successful:', data);
+        // Store token, redirect, etc.
+        alert('Login successful!');
+    } catch (error) {
+        console.error('Error:', error);
+        alert('Something went wrong. Check the console for details.');
+    }
+});
+//////////////////////////
+//upload
+document.getElementById('browse-btn').addEventListener('click', function () {
+    document.getElementById('file-input').click();
+});
+
+document.getElementById('file-input').addEventListener('change', async function () {
+    const file = this.files[0];
+    if (!file) {
+        alert('Please select a file.');
+        return;
+    }
+
+    const token = localStorage.getItem('token');
+    if (!token) {
+        alert('You must log in first.');
+        return;
+    }
+
+    const formData = new FormData();
+    formData.append('file', file); 
+
+    try {
+        const response = await fetch('https://localhost:7111/api/Scansession/upload', {
+            method: 'POST',
+            headers: {
+                'Authorization': 'Bearer ' + token
+            },
+            body: formData
+        });
+
+        if (!response.ok) {
+            const error = await response.text();
+            alert('Upload failed: ' + error);
+            return;
+        }
+
+        const result = await response.json();
+        console.log('Upload success:', result);
+        alert('File uploaded successfully!');
+    } catch (err) {
+        console.error('Upload error:', err);
+        alert('An error occurred during upload.');
+    }
+});
+///////////////////////////////////
 
         fetchAndRenderImages();
         fetchAndRenderReport();
