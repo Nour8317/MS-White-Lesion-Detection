@@ -45,7 +45,7 @@ public class ScanSessionController : ControllerBase
         foreach (var file in dto.ScanFiles)
         {
             var path = await _scanService.SaveScanFileAsync(file);
-            path = "wwwroot/" + path.Replace("\\", "/");
+            path = path.Replace("\\", "/");
             var scan = new Scan
             {
                 ScanSessionId = session.Id,

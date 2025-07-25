@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|e:\\projects\\ms-white-lesion-detection\\asp.net web api\\ms white lesion detection\\ms white lesion detection\\controllers\\scansessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|solutionrelative:ms white lesion detection\\controllers\\scansessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|e:\\projects\\ms-white-lesion-detection\\asp.net web api\\ms white lesion detection\\ms white lesion detection\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|solutionrelative:ms white lesion detection\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|e:\\projects\\ms-white-lesion-detection\\asp.net web api\\ms white lesion detection\\ms white lesion detection\\dtos\\predictionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|solutionrelative:ms white lesion detection\\dtos\\predictionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|e:\\projects\\ms-white-lesion-detection\\asp.net web api\\ms white lesion detection\\ms white lesion detection\\dtos\\predictionmaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|solutionrelative:ms white lesion detection\\dtos\\predictionmaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|e:\\projects\\ms-white-lesion-detection\\asp.net web api\\ms white lesion detection\\ms white lesion detection\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|solutionrelative:ms white lesion detection\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1007D02C-81CB-4037-86E2-A81E7ECD4B9B}|MS white lesion detection\\MS white lesion detection.csproj|e:\\projects\\ms-white-lesion-detection\\asp.net web api\\ms white lesion detection\\ms white lesion detection\\models\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +38,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MS white lesion detection\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MS white lesion detection\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAqwHMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T16:51:20.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScanSessionController.cs",
+              "DocumentMoniker": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\Controllers\\ScanSessionController.cs",
+              "RelativeDocumentMoniker": "MS white lesion detection\\Controllers\\ScanSessionController.cs",
+              "ToolTip": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\Controllers\\ScanSessionController.cs",
+              "RelativeToolTip": "MS white lesion detection\\Controllers\\ScanSessionController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowC8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T16:50:53.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PredictionMaskDto.cs",
+              "DocumentMoniker": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\DTOs\\PredictionMaskDto.cs",
+              "RelativeDocumentMoniker": "MS white lesion detection\\DTOs\\PredictionMaskDto.cs",
+              "ToolTip": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\DTOs\\PredictionMaskDto.cs",
+              "RelativeToolTip": "MS white lesion detection\\DTOs\\PredictionMaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T16:49:19.039Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
@@ -38,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PredictionResultDto.cs",
               "DocumentMoniker": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\DTOs\\PredictionResultDto.cs",
               "RelativeDocumentMoniker": "MS white lesion detection\\DTOs\\PredictionResultDto.cs",
@@ -51,20 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PredictionController.cs",
               "DocumentMoniker": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\Controllers\\PredictionController.cs",
               "RelativeDocumentMoniker": "MS white lesion detection\\Controllers\\PredictionController.cs",
               "ToolTip": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\Controllers\\PredictionController.cs",
               "RelativeToolTip": "MS white lesion detection\\Controllers\\PredictionController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAUwDYAAAAAAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T23:59:44.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Scan.cs",
               "DocumentMoniker": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\Models\\Scan.cs",
               "RelativeDocumentMoniker": "MS white lesion detection\\Models\\Scan.cs",
@@ -77,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\projects\\MS-White-Lesion-Detection\\ASP.Net Web API\\MS white lesion detection\\MS white lesion detection\\appsettings.json",
               "RelativeDocumentMoniker": "MS white lesion detection\\appsettings.json",
@@ -85,8 +136,7 @@
               "RelativeToolTip": "MS white lesion detection\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-25T15:40:59.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T15:40:59.436Z"
             }
           ]
         }
